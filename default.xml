@@ -16,6 +16,6 @@
 	<project name="meta-openembedded" path="meta-oe" revision="be79b8b111a968efdbe5e1482d0c246d0b24763e" />
 	<project name="meta-xilinx" remote="Xilinx" path="meta-xilinx" revision="5fccc46503e468ed024185ed032891799a31db58" />
 
-	<!-- v2017.4 for meta-xilinx cdd0bf1e206922fad1826d818c463e6eae4f8388 ->
+	<!-- v2017.4 for meta-xilinx cdd0bf1e206922fad1826d818c463e6eae4f8388 -->
 
 </manifest>
